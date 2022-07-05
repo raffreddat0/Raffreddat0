@@ -2,10 +2,6 @@
   <b>Raffreddat0</b>
 </h1>
 
-Hi, I'm Raffreddat0, I'm 15, I'm Italian and I like anime and gaming.
-
-<br>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
