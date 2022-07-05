@@ -38,6 +38,6 @@ const me = new Profile();
 </p>
 <br>
 
-[![Raffreddat0' Activity Graph](https://activity-graph.herokuapp.com/graph?username=raffreddat0&custom_title=Raffreddat0%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Raffreddat0' Activity Graph](https://activity-graph.herokuapp.com/graph?username=raffreddat0&custom_title=Raffreddat0%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/raffreddat0/)
 
 
