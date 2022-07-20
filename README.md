@@ -11,7 +11,7 @@
 </p>
 
 ```JavaScript
-class Profile {
+class Raffreddat0 extends Profile {
   constructor() {
     this.name = "Giovanni";
     this.username = "Raffreddat0";
@@ -25,7 +25,7 @@ class Profile {
   }
 }
 
-const me = new Profile();
+const me = new Raffreddat0();
 ```
 
 ## My Statistics
