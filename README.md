@@ -11,11 +11,12 @@
 </p>
 
 ```JavaScript
-class Raffreddat0 extends Profile {
+class Profile {
   constructor() {
     this.name = "Giovanni";
     this.username = "Raffreddat0";
     this.location = "Italy";
+    this.languages = ["HTML", "JavaScript", "Python", "C", "Go"];
     this.discord = "Raffreddat0#1707";
     this.website = "http://raffreddat0.github.io/";
   }
@@ -24,7 +25,7 @@ class Raffreddat0 extends Profile {
   }
 }
 
-const me = new Raffreddat0();
+const me = new Profile();
 ```
 
 ## My Statistics
