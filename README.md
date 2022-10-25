@@ -43,6 +43,6 @@ const me = new Raffreddat0();
 
 <p align="center">
   <a href="https://open.spotify.com/user/19ee2dpc1n8hxiq26xmfsdte4">
-  <img src="https://novatorem-jjmpk5j26-raffreddat07.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+    <img src="https://novatorem-jjmpk5j26-raffreddat07.vercel.app/api/spotify?background_color=0d1117&hide_border=true" />
   </a>
 </p>
