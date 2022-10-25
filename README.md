@@ -41,6 +41,8 @@ const me = new Raffreddat0();
 
 [![Raffreddat0' Activity Graph](https://activity-graph.herokuapp.com/graph?username=raffreddat0&custom_title=Raffreddat0's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/raffreddat0/)
 
-<div align="center">
-[![Spotify](https://novatorem-jjmpk5j26-raffreddat07.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/19ee2dpc1n8hxiq26xmfsdte4)
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/19ee2dpc1n8hxiq26xmfsdte4">
+  <img src="https://novatorem-jjmpk5j26-raffreddat07.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  </a>
+</p>
