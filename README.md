@@ -28,12 +28,6 @@ class Raffreddat0 extends Profile {
 const me = new Raffreddat0();
 ```
 
-<p align="center">
-  <a href="https://open.spotify.com/user/19ee2dpc1n8hxiq26xmfsdte4">
-    <img src="https://novatorem-jjmpk5j26-raffreddat07.vercel.app/api/spotify?scan=true&theme=dark" width="240px" />
-  </a>
-</p>
-
 ## My Statistics
 
 <br/>
