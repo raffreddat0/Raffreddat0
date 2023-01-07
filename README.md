@@ -16,7 +16,7 @@ class Raffreddat0 extends Profile {
     this.name = "Giovanni";
     this.username = "Raffreddat0";
     this.location = "Italy";
-    this.languages = ["HTML", "React.js", "CSS", "JavaScript", "Typescript", "Python", "C", "Go"];
+    this.languages = ["React.js", "JavaScript", "Typescript", "Python", "C", "Go"];
     this.discord = "Raffreddat0#1945";
     this.website = "http://raffreddat0.github.io/";
   }
