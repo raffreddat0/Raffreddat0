@@ -17,7 +17,7 @@ class Raffreddat0 extends Profile {
     this.username = "Raffreddat0";
     this.location = "Italy";
     this.languages = ["HTML", "React.js", "CSS", "JavaScript", "Typescript", "Python", "C", "Go"];
-    this.discord = "Raffreddat0#1707";
+    this.discord = "Raffreddat0#1945";
     this.website = "http://raffreddat0.github.io/";
   }
   name() {
@@ -38,5 +38,3 @@ const me = new Raffreddat0();
   </a>
 </p>
 <br>
-
-[![Raffreddat0' Activity Graph](https://activity-graph.herokuapp.com/graph?username=raffreddat0&custom_title=Raffreddat0's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/raffreddat0/)
