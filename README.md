@@ -16,9 +16,9 @@ class Raffreddat0 extends Profile {
     this.name = "Giovanni";
     this.username = "Raffreddat0";
     this.location = "Italy";
-    this.languages = ["React.js", "JavaScript", "Typescript", "Python", "C"];
+    this.languages = ["JavaScript", "Typescript", "Python", "C"];
     this.discord = "raffreddat0";
-    this.website = "https://raffreddat0.dev/";
+    this.website = "https://solo.to/raffreddat0";
   }
   name() {
     return this.name;
